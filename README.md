@@ -1,5 +1,6 @@
 # odin-landing_page
 The Odin Project: Landing Page
+Published URL for viewing: https://chowyo123.github.io/odin-landing_page/
 
 Foundations
 Project: Landing Page
